@@ -10,6 +10,6 @@ FOR REASONS OF SECURITY AND TRUST TOWARDS YOU I HAVE NOT COMPILED THE C++ CODE D
 
 how to compile:
 
-g++ -o BackupToolService.exe BackupToolService.cpp
+g++ -o QuickSave.exe QuickSave.cpp
 
 NOTE: you must have the version of GCC/G++ higher than 7.0 (like 8.0+)
